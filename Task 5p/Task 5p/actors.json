@@ -1,0 +1,60 @@
+{
+    "actors": [
+        {
+            "first": "mahi",
+            "second": "juttu",
+            "age": 24
+        },
+        {
+            "first": "usha",
+            "second": "juttu",
+            "age": 32
+        },
+        {
+            "first": "Johnny",
+            "second": "Depp",
+            "age": 54
+        },
+        {
+            "first": "rag",
+            "second": "deep",
+            "age": 20
+        },
+        {
+            "first": "seema",
+            "second": "bill",
+            "age": 55
+        },
+        {
+            "first": "williams",
+            "second": "ada",
+            "age": 44
+        },
+        {
+            "first": "ram",
+            "second": "koni",
+            "age": 66
+        },
+        {
+            "first": "danny",
+            "second": "tar",
+            "age": 30
+        },
+        {
+            "first": "jon",
+            "second": "hek",
+            "age": 35
+        },
+        {
+            "first": "kane",
+            "second": "da",
+            "age": 37
+        },
+        {
+            "first": "sam",
+            "second": "tarly",
+            "age": 33
+        }
+        
+    ]
+}
